@@ -1,0 +1,42 @@
+1665226614023	geckodriver	INFO	Listening on 127.0.0.1:54810
+1665226614882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileTCCKG5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1665226617453	Marionette	INFO	Listening on port 54821
+1665226617495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://cdn.cian.site/frontend/frontend-offer-card/chunk.f9be863b187400ba23a4.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.cian.site/frontend/frontend-offer-card/chunk.f9be863b187400ba23a4.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cian.ru/sale/flat/222059642/ line 386 > injectedScript, line 1: ReferenceError: UXS is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 162: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 162: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+2022-10-10 21:36:23.809 firefox-bin[61709:5578831] HIToolbox: received notification of WindowServer event port death.
+2022-10-10 21:36:23.810 firefox-bin[61709:5578831] port matched the WindowServer port created in BindCGSToRunLoop
+1679140145765	geckodriver	INFO	Listening on 127.0.0.1:52235
+1679140146593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileffZMoT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679140152404	Marionette	INFO	Marionette enabled
+1679140152748	Marionette	INFO	Listening on port 52246
+1679140153512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileffZMoT/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679208172437	Marionette	INFO	Stopped listening on port 52246
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1679736167439	geckodriver	INFO	Listening on 127.0.0.1:49770
+1679736167473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileA2LMwW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679736168258	Marionette	INFO	Marionette enabled
+1679736168372	Marionette	INFO	Listening on port 49779
+1679736168964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileA2LMwW/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
