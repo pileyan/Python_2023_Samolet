@@ -40,3 +40,84 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1697877715092	geckodriver	INFO	Listening on 127.0.0.1:62436
+1697877715909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileAhV69n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697877716598	Marionette	INFO	Marionette enabled
+1697877716849	Marionette	INFO	Listening on port 62475
+1697877717471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1697877786826	geckodriver	INFO	Listening on 127.0.0.1:64504
+1697877787832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofilek0f1oT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697877788476	Marionette	INFO	Marionette enabled
+1697877788684	Marionette	INFO	Listening on port 64543
+1697877788983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.avito.ru."
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1697877925255	geckodriver	INFO	Listening on 127.0.0.1:52134
+1697877926258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofilepttEnO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697877926968	Marionette	INFO	Marionette enabled
+1697877927233	Marionette	INFO	Listening on port 52171
+1697877927896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.4a15864e09b86885.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.avito.ru."
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 522))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450964/pagestyle22 (resource://devtools/server/actors/page-style.js:522:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js, line 2: Script terminated by timeout at:
+i@https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js:2:33112
+EventListener.handleEvent*88156/qe/</<@https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js:2:48375
+88156/ae/</</<@https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js:2:35497
+Qr@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:38089
+Ar@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:37562
+64448/Hr/<@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:37739
+Hr@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:37672
+qo@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:88668
+ws@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:109169
+ks@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:109051
+ys@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:108920
+vs@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:108771
+as@https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:103896
+E@https://www.avito.ru/dstatic/build/client/main.af22531bc43df888.js:2:51595
+L@https://www.avito.ru/dstatic/build/client/main.af22531bc43df888.js:2:52126
+@https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44883
+A@https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44603
+E@https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44663
+
+1698045850425	Marionette	INFO	Stopped listening on port 52171
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
