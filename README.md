@@ -8,3 +8,5 @@
 
 **ДЗ2** сдавать [Сюда](https://www.dropbox.com/request/XCvX26GE5Sy7hQLSpCRw) до 14 октября включительно
 
+**ДЗ3** сдавать [Сюда](https://www.dropbox.com/request/Mp4ABZ87rBzX1JUhuzg7) до 10 декабря включительно
+
